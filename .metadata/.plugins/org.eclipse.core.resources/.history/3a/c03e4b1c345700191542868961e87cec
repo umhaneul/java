@@ -1,0 +1,9 @@
+package hs.kr.emirim.mathematics;
+
+public class Mathematics {
+	
+	public static void main(String[] args) {
+		System.out.println(Math.abs(25));
+		
+	}
+}
